@@ -11,6 +11,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <h2>Daisy Ui  not installed</h2>
       <button className='btn btn-success'>Click Me</button>
     </>
   )
